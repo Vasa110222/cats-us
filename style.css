@@ -1,0 +1,48 @@
+header{
+    background-color: blueviolet;
+    padding-top:30px ;
+    padding-bottom: 30px;
+    color:white;
+}
+
+img{
+   width: 190px;
+   margin-left: 250px;
+   margin-right:250px ;
+}
+
+footer{
+    background-color: rgb(83, 3, 66);
+}
+
+footer p{
+    color:white;
+    padding: 5px;
+    text-align: left;
+}
+
+h1{
+text-align: center;
+color: red;
+}
+p {
+text-align: center;
+}
+
+.img{
+    border-radius: 100px;
+    margin:3px;
+}
+
+a{
+    border-radius: solid 1px #60016D;
+    background-color:#C561D3 ;
+    padding: 5px;
+    margin: 80px;
+    
+}
+
+.n_img{
+width: 500px;
+
+}
